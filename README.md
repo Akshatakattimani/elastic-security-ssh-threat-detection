@@ -254,8 +254,18 @@ SOC Investigation
 
 ---
 
-# Author
+## 👩‍💻 Author
 
 **Akshata Kattimani**
+ SOC Analyst
 
-Cybersecurity Enthusiast | SOC Analyst | Elastic Security | SIEM | Detection Engineering | Threat Hunting
+### Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/akshata-kattimani-300997397/
+- GitHub: https://github.com/Akshatakattimani
+
+---
+
+## ⭐ If you found this project useful
+
+If you like this project, consider giving it a ⭐ on GitHub.
